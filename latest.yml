@@ -1,8 +1,8 @@
-version: 1.0.2
+version: 1.0.3
 files:
-  - url: ShibyxSetup1.0.2.exe
-    sha512: WZZMBq8RzyeUyZCU6fQRlC/t2sunLOZGWL4uQ0SPFuI2tLyfyn0h+MfuKpyjQXbjYslIjG5brH+vYv9yCP4rqg==
-    size: 88621805
-path: ShibyxSetup1.0.2.exe
-sha512: WZZMBq8RzyeUyZCU6fQRlC/t2sunLOZGWL4uQ0SPFuI2tLyfyn0h+MfuKpyjQXbjYslIjG5brH+vYv9yCP4rqg==
-releaseDate: '2025-07-19T14:25:20.646Z'
+  - url: https://sgp1.vultrobjects.com/shibyx/ShibyxSetup1.0.3.exe
+    sha512: PLXQ2MgJyVrcIKyxJshfS7OR1yJtGZRlP7vX1Nh4hLbyJgDiWXIYg/eSqxicFlNhIecdt0m3/FO6cHLDPLwg/g==
+    size: 88621885
+path: ShibyxSetup1.0.3.exe
+sha512: PLXQ2MgJyVrcIKyxJshfS7OR1yJtGZRlP7vX1Nh4hLbyJgDiWXIYg/eSqxicFlNhIecdt0m3/FO6cHLDPLwg/g==
+releaseDate: '2025-07-19T14:28:16.971Z'
