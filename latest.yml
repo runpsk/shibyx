@@ -1,8 +1,8 @@
 version: 1.0.2
 files:
   - url: ShibyxSetup1.0.2.exe
-    sha512: 2VvCGWPt/RjQqE2wK4FMDGJ0DTkUVS4XwMiG90qfj48oPlNUn+RFFu11a3N9yYFvZrvGzcmsjG0qnP+YENDcHw==
-    size: 88621806
+    sha512: WZZMBq8RzyeUyZCU6fQRlC/t2sunLOZGWL4uQ0SPFuI2tLyfyn0h+MfuKpyjQXbjYslIjG5brH+vYv9yCP4rqg==
+    size: 88621805
 path: ShibyxSetup1.0.2.exe
-sha512: 2VvCGWPt/RjQqE2wK4FMDGJ0DTkUVS4XwMiG90qfj48oPlNUn+RFFu11a3N9yYFvZrvGzcmsjG0qnP+YENDcHw==
-releaseDate: '2025-07-19T14:21:23.036Z'
+sha512: WZZMBq8RzyeUyZCU6fQRlC/t2sunLOZGWL4uQ0SPFuI2tLyfyn0h+MfuKpyjQXbjYslIjG5brH+vYv9yCP4rqg==
+releaseDate: '2025-07-19T14:25:20.646Z'
