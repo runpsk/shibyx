@@ -1,8 +1,8 @@
-version: 1.0.3
+version: 1.0.2
 files:
-  - url: https://1024terabox.com/s/1ZiQlSc3xzOg0L0GQbcrFoQ
-    sha512: VpU2WI1BgkW9Dd2xdgPMbx1phbKyuZi9Gm97EzaNRoYtsdNdxF4QNvqUCUm3cBEbH0afapKpyPrxWmmCc4cnhg==
-    size: 88621500
-path: ShibyxSetup1.0.3.exe
-sha512: VpU2WI1BgkW9Dd2xdgPMbx1phbKyuZi9Gm97EzaNRoYtsdNdxF4QNvqUCUm3cBEbH0afapKpyPrxWmmCc4cnhg==
-releaseDate: '2025-07-19T11:25:47.552Z'
+  - url: ShibyxSetup1.0.2.exe
+    sha512: 2VvCGWPt/RjQqE2wK4FMDGJ0DTkUVS4XwMiG90qfj48oPlNUn+RFFu11a3N9yYFvZrvGzcmsjG0qnP+YENDcHw==
+    size: 88621806
+path: ShibyxSetup1.0.2.exe
+sha512: 2VvCGWPt/RjQqE2wK4FMDGJ0DTkUVS4XwMiG90qfj48oPlNUn+RFFu11a3N9yYFvZrvGzcmsjG0qnP+YENDcHw==
+releaseDate: '2025-07-19T14:21:23.036Z'
